@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Domino game using NextJs
+
+I created this project to challenge myself with something I hadn't yet created, using new technologies for myself. This so I can add development experience with other technologies that I'm not used to.
+
 
 ## Getting Started
 
